@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4a2d75"/>
+      <stop offset="1" stop-color="#1c1726"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+  <!-- 森林 -->
+  <path d="M32 12 L40 26 L36 26 L44 40 L20 40 L28 26 L24 26 Z" fill="#f3d9a4"/>
+  <rect x="29" y="36" width="6" height="14" rx="2" fill="#9d4edd"/>
+  <!-- 书本 -->
+  <path d="M12 44 a5 5 0 0 1 10 0 v8 a5 5 0 0 0 -10 0 z" fill="#fff" opacity="0.85"/>
+  <path d="M52 44 a5 5 0 0 0 -10 0 v8 a5 5 0 0 1 10 0 z" fill="#fff" opacity="0.85"/>
+</svg>
